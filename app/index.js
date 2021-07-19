@@ -3,4 +3,4 @@ const app = express();
 app.get('', (request, response) => {
     return response.send('OK');
 });
-app.listen(80);
+app.listen(process.env.PORT);
