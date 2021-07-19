@@ -1,6 +1,6 @@
 # Nginx NodeJS
 ```
-nginx-nodejs/
+nginx-node-js/
 	|-Dockerfile			<-- required: Dockerfile
 	|-app/					<-- required: nodejs source code
 	|-nginx/
